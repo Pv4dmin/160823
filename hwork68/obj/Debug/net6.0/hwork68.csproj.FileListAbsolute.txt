@@ -1,0 +1,15 @@
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.csproj.AssemblyReference.cache
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.AssemblyInfoInputs.cache
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.AssemblyInfo.cs
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.csproj.CoreCompileInputs.cache
+C:\Users\hmrv\Desktop\hb\160923\hwork68\bin\Debug\net6.0\hwork68.exe
+C:\Users\hmrv\Desktop\hb\160923\hwork68\bin\Debug\net6.0\hwork68.deps.json
+C:\Users\hmrv\Desktop\hb\160923\hwork68\bin\Debug\net6.0\hwork68.runtimeconfig.json
+C:\Users\hmrv\Desktop\hb\160923\hwork68\bin\Debug\net6.0\hwork68.dll
+C:\Users\hmrv\Desktop\hb\160923\hwork68\bin\Debug\net6.0\hwork68.pdb
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.dll
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\refint\hwork68.dll
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.pdb
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\hwork68.genruntimeconfig.cache
+C:\Users\hmrv\Desktop\hb\160923\hwork68\obj\Debug\net6.0\ref\hwork68.dll

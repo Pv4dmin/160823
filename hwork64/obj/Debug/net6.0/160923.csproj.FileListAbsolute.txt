@@ -1,0 +1,15 @@
+C:\Users\hmrv\Desktop\hb\160923\bin\Debug\net6.0\160923.exe
+C:\Users\hmrv\Desktop\hb\160923\bin\Debug\net6.0\160923.deps.json
+C:\Users\hmrv\Desktop\hb\160923\bin\Debug\net6.0\160923.runtimeconfig.json
+C:\Users\hmrv\Desktop\hb\160923\bin\Debug\net6.0\160923.dll
+C:\Users\hmrv\Desktop\hb\160923\bin\Debug\net6.0\160923.pdb
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.csproj.AssemblyReference.cache
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.AssemblyInfoInputs.cache
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.AssemblyInfo.cs
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.csproj.CoreCompileInputs.cache
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.dll
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\refint\160923.dll
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.pdb
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\160923.genruntimeconfig.cache
+C:\Users\hmrv\Desktop\hb\160923\obj\Debug\net6.0\ref\160923.dll
