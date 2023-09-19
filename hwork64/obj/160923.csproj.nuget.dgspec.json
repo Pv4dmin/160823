@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmrv\\Desktop\\hb\\160923\\160923.csproj": {}
+    "C:\\Users\\hmrv\\Desktop\\hb\\160923\\hwork64\\160923.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmrv\\Desktop\\hb\\160923\\160923.csproj": {
+    "C:\\Users\\hmrv\\Desktop\\hb\\160923\\hwork64\\160923.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\160923.csproj",
+        "projectUniqueName": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\hwork64\\160923.csproj",
         "projectName": "160923",
-        "projectPath": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\160923.csproj",
+        "projectPath": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\hwork64\\160923.csproj",
         "packagesPath": "C:\\Users\\hmrv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\obj\\",
+        "outputPath": "C:\\Users\\hmrv\\Desktop\\hb\\160923\\hwork64\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hmrv\\AppData\\Roaming\\NuGet\\NuGet.Config"

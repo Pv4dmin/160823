@@ -11,7 +11,7 @@ return int.Parse(Console.ReadLine()!);
 void PrintNumbers2(int num)
 {
 if (num == 0) return;
-System.Console.Write(num + " ");
+System.Console.Write(num + ", ");
 PrintNumbers2(num - 1);
 
 }

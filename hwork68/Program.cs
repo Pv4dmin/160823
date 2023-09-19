@@ -18,5 +18,5 @@ else return AkkerNums(num1 - 1, AkkerNums(num1, num2 - 1));
 
 int first = InputNum("введите число M: ");
 int second = InputNum("введите число N: ");
-int series = AkkerNums(first, second);
-Console.WriteLine(series);
+int result = AkkerNums(first, second);
+Console.WriteLine($"A(m,n) = {result}");
